@@ -1,4 +1,5 @@
 <?php
+//Linguagem PHP pura
 
 $nome = $_POST['nome'];
 $email = $_POST['email'];

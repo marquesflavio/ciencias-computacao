@@ -8,6 +8,7 @@
 </head>
 <body>
     <p>
+        <!--Linguagem PHP mesclada com HTML-->
         <?php echo esse é um texto escrito utilizando PHP ?>
     </p>
 </body>
